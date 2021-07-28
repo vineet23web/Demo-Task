@@ -529,6 +529,7 @@ body {
 /* 4 */
 .highlight img {
   margin-left: 150px;
+  margin-top: 100px;
   transform: scale(1.5, 1.5);
   -webkit-animation-name: zoomin;
   -webkit-animation-duration: 40s;
